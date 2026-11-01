@@ -1,0 +1,14 @@
+/storage/
+/归档/
+/整理方案/
+/经典经济书籍/
+__pycache__/
+*.pyc
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+*.log
+.env
+.env.*
